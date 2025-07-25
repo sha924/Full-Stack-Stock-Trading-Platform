@@ -1,1 +1,1 @@
-# Full-Stack-Stock-Trading-Platform
+A full stack stock trading platform that lets users simulate real-time stock trading, track portfolios, view live market data, and analyze charts. Built using MERN stack with API integration, it offers a complete experience of a real trading system with virtual money.
